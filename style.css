@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-transform: uppercase;
+    font-family: "Kanit";
+}
+
+body{
+    background-color: #222;
+    height: 100%;
+}
+
+.h1-counter {
+    color: #eee;
+    font-size: 4rem;
+    margin-bottom: 3rem;
+    text-align: center;
+    margin-top: 10%;
+}
+
+button {
+    font-size: 1.5rem;
+    padding: 12px;
+    border: 1px solid #eee;
+    border-radius: 9px;
+    margin-right: 1.3rem;
+}
+
+.button-container {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
